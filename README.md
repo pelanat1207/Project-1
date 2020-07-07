@@ -1,4 +1,4 @@
-# Project-1: MAB-Israel
+# Project-1: MAAB-Israel
 
 This is my first project in **Data Science course in Naya College**
 
